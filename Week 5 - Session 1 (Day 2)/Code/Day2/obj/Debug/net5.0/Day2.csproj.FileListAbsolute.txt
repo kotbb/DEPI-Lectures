@@ -1,0 +1,16 @@
+D:\DEPI\Lectures Techinical\Course C#\GitHub Repo Lectures\Day2\Day2\bin\Debug\net5.0\Day2.exe
+D:\DEPI\Lectures Techinical\Course C#\GitHub Repo Lectures\Day2\Day2\bin\Debug\net5.0\Day2.deps.json
+D:\DEPI\Lectures Techinical\Course C#\GitHub Repo Lectures\Day2\Day2\bin\Debug\net5.0\Day2.runtimeconfig.json
+D:\DEPI\Lectures Techinical\Course C#\GitHub Repo Lectures\Day2\Day2\bin\Debug\net5.0\Day2.runtimeconfig.dev.json
+D:\DEPI\Lectures Techinical\Course C#\GitHub Repo Lectures\Day2\Day2\bin\Debug\net5.0\Day2.dll
+D:\DEPI\Lectures Techinical\Course C#\GitHub Repo Lectures\Day2\Day2\bin\Debug\net5.0\Day2.pdb
+D:\DEPI\Lectures Techinical\Course C#\GitHub Repo Lectures\Day2\Day2\obj\Debug\net5.0\Day2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\Lectures Techinical\Course C#\GitHub Repo Lectures\Day2\Day2\obj\Debug\net5.0\Day2.AssemblyInfoInputs.cache
+D:\DEPI\Lectures Techinical\Course C#\GitHub Repo Lectures\Day2\Day2\obj\Debug\net5.0\Day2.AssemblyInfo.cs
+D:\DEPI\Lectures Techinical\Course C#\GitHub Repo Lectures\Day2\Day2\obj\Debug\net5.0\Day2.csproj.CoreCompileInputs.cache
+D:\DEPI\Lectures Techinical\Course C#\GitHub Repo Lectures\Day2\Day2\obj\Debug\net5.0\Day2.sourcelink.json
+D:\DEPI\Lectures Techinical\Course C#\GitHub Repo Lectures\Day2\Day2\obj\Debug\net5.0\Day2.dll
+D:\DEPI\Lectures Techinical\Course C#\GitHub Repo Lectures\Day2\Day2\obj\Debug\net5.0\refint\Day2.dll
+D:\DEPI\Lectures Techinical\Course C#\GitHub Repo Lectures\Day2\Day2\obj\Debug\net5.0\Day2.pdb
+D:\DEPI\Lectures Techinical\Course C#\GitHub Repo Lectures\Day2\Day2\obj\Debug\net5.0\Day2.genruntimeconfig.cache
+D:\DEPI\Lectures Techinical\Course C#\GitHub Repo Lectures\Day2\Day2\obj\Debug\net5.0\ref\Day2.dll
