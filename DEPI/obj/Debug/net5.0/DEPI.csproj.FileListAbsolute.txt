@@ -1,0 +1,15 @@
+C:\Users\Kotb\source\repos\DEPI\DEPI\bin\Debug\net5.0\DEPI.exe
+C:\Users\Kotb\source\repos\DEPI\DEPI\bin\Debug\net5.0\DEPI.deps.json
+C:\Users\Kotb\source\repos\DEPI\DEPI\bin\Debug\net5.0\DEPI.runtimeconfig.json
+C:\Users\Kotb\source\repos\DEPI\DEPI\bin\Debug\net5.0\DEPI.runtimeconfig.dev.json
+C:\Users\Kotb\source\repos\DEPI\DEPI\bin\Debug\net5.0\DEPI.dll
+C:\Users\Kotb\source\repos\DEPI\DEPI\bin\Debug\net5.0\DEPI.pdb
+C:\Users\Kotb\source\repos\DEPI\DEPI\obj\Debug\net5.0\DEPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kotb\source\repos\DEPI\DEPI\obj\Debug\net5.0\DEPI.AssemblyInfoInputs.cache
+C:\Users\Kotb\source\repos\DEPI\DEPI\obj\Debug\net5.0\DEPI.AssemblyInfo.cs
+C:\Users\Kotb\source\repos\DEPI\DEPI\obj\Debug\net5.0\DEPI.csproj.CoreCompileInputs.cache
+C:\Users\Kotb\source\repos\DEPI\DEPI\obj\Debug\net5.0\DEPI.dll
+C:\Users\Kotb\source\repos\DEPI\DEPI\obj\Debug\net5.0\refint\DEPI.dll
+C:\Users\Kotb\source\repos\DEPI\DEPI\obj\Debug\net5.0\DEPI.pdb
+C:\Users\Kotb\source\repos\DEPI\DEPI\obj\Debug\net5.0\DEPI.genruntimeconfig.cache
+C:\Users\Kotb\source\repos\DEPI\DEPI\obj\Debug\net5.0\ref\DEPI.dll
