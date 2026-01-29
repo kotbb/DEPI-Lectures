@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DEPI\\Lectures Techinical\\Course C#\\GitHub Repo Lectures\\Day2\\",
+  "WorkspaceRootPath": "D:\\DEPI\\Lectures Techinical\\Course C#\\GitHub Repo Lectures\\Week 5 - Session 1 (Day 2)\\Code\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C81A9B8-CDB8-4C71-A7DA-DE96F93A8396}|Day2\\Day2.csproj|d:\\depi\\lectures techinical\\course c#\\github repo lectures\\day2\\day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C81A9B8-CDB8-4C71-A7DA-DE96F93A8396}|Day2\\Day2.csproj|solutionrelative:day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CAB0D86-1944-3217-0369-BEEA92F5DAFB}|Day2\\Day2.csproj|d:\\depi\\lectures techinical\\course c#\\github repo lectures\\week 5 - session 1 (day 2)\\code\\day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CAB0D86-1944-3217-0369-BEEA92F5DAFB}|Day2\\Day2.csproj|solutionrelative:day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C81A9B8-CDB8-4C71-A7DA-DE96F93A8396}|Day2\\Day2.csproj|d:\\depi\\lectures techinical\\course c#\\github repo lectures\\day2\\day2\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C81A9B8-CDB8-4C71-A7DA-DE96F93A8396}|Day2\\Day2.csproj|solutionrelative:day2\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CAB0D86-1944-3217-0369-BEEA92F5DAFB}|Day2\\Day2.csproj|d:\\depi\\lectures techinical\\course c#\\github repo lectures\\week 5 - session 1 (day 2)\\code\\day2\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CAB0D86-1944-3217-0369-BEEA92F5DAFB}|Day2\\Day2.csproj|solutionrelative:day2\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,22 +24,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Point.cs",
-              "DocumentMoniker": "D:\\DEPI\\Lectures Techinical\\Course C#\\GitHub Repo Lectures\\Day2\\Day2\\Point.cs",
+              "DocumentMoniker": "D:\\DEPI\\Lectures Techinical\\Course C#\\GitHub Repo Lectures\\Week 5 - Session 1 (Day 2)\\Code\\Day2\\Point.cs",
               "RelativeDocumentMoniker": "Day2\\Point.cs",
-              "ToolTip": "D:\\DEPI\\Lectures Techinical\\Course C#\\GitHub Repo Lectures\\Day2\\Day2\\Point.cs",
+              "ToolTip": "D:\\DEPI\\Lectures Techinical\\Course C#\\GitHub Repo Lectures\\Week 5 - Session 1 (Day 2)\\Code\\Day2\\Point.cs",
               "RelativeToolTip": "Day2\\Point.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T16:48:07.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T16:48:07.343Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DEPI\\Lectures Techinical\\Course C#\\GitHub Repo Lectures\\Day2\\Day2\\Program.cs",
+              "DocumentMoniker": "D:\\DEPI\\Lectures Techinical\\Course C#\\GitHub Repo Lectures\\Week 5 - Session 1 (Day 2)\\Code\\Day2\\Program.cs",
               "RelativeDocumentMoniker": "Day2\\Program.cs",
-              "ToolTip": "D:\\DEPI\\Lectures Techinical\\Course C#\\GitHub Repo Lectures\\Day2\\Day2\\Program.cs",
+              "ToolTip": "D:\\DEPI\\Lectures Techinical\\Course C#\\GitHub Repo Lectures\\Week 5 - Session 1 (Day 2)\\Code\\Day2\\Program.cs",
               "RelativeToolTip": "Day2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAKwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
