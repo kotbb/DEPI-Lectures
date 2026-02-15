@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../TestVisibility/TestVisibility.csproj" Id="360e5a02-f58e-4253-b050-e7153cf67d17" />
+  <Project Path="Day6.csproj" />
+</Solution>
