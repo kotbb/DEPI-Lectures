@@ -5,16 +5,19 @@ namespace Day2.Controllers
 {
     public class StudentController : Controller
     {
+        StudentBL studentBL = new StudentBL();
+
+
+        [HttpGet]
         public IActionResult ShowAll()
         {
-            StudentBL studentBL = new StudentBL();
             List<Student> students = studentBL.GetAll();
             return View("ShowAll", students);
         }
 
+        [HttpGet]
         public IActionResult ShowDetails(int id)
         {
-            StudentBL studentBL = new StudentBL();
             Student student = studentBL.GetById(id);
             return View("ShowDetails", student);
         }

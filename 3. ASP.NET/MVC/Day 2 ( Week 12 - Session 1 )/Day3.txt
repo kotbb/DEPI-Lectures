@@ -1,0 +1,6 @@
+3- State 3 cases that ViewModel is a must and one of this cases Security case.
+
+1) for security, we don't want to show all the data about the entity in the database
+   we want to customize, and send what we want
+2) combine data from multiple models
+3) when we want to send data that is calculated at runtime like reports so we use them

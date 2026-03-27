@@ -1,0 +1,35 @@
+﻿@model DepartmentWithExtraInfoViewModel
+
+@{
+    ViewData["Title"] = "Department Details";
+}
+
+<h1>Department Details</h1>
+<br />
+<table class="table table-hover table-bordered">
+    <tr>
+        <th>Department Name</th>
+        <th>Department State</th>
+
+    </tr>
+    <tr>
+        <th>@Model.DeptName</th>
+        <th>@Model.DeptState</th>
+
+    </tr>
+</table>
+
+<h1>Student Names</h1>
+<br />  
+<table class="table table-hover table-bordered">
+    <tr>
+        <th>Student Name</th>
+    </tr>
+    @foreach (var item in Model.StudentNames)
+    {
+        <tr>
+            <th>@item</th>
+        </tr>
+    }
+</table>
+
