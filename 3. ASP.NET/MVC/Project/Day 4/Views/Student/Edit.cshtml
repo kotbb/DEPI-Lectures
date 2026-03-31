@@ -1,0 +1,39 @@
+﻿@model StudentFormViewModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<form asp-action="SaveEdit" asp-controller="Student" method="post">
+
+    <input type="hidden" asp-for="Student.Id" />
+
+    <div>
+        <label asp-for="Student.Name"></label>
+        <input asp-for="Student.Name" class="form form-control" />
+    </div>
+    <div>
+        <label asp-for="Student.Age"></label>
+        <input asp-for="Student.Age" class="form form-control" />
+    </div>
+    <div>
+
+        <label asp-for="Departments"></label>
+        <select asp-for="Student.DepartmentId" , class=" form form-control">
+            <option value="">Select a Department</option>
+            @foreach (var dept in Model?.Departments)
+            {
+                <option value="@dept.Id">@dept.Name</option>
+            }
+
+        </select>
+    </div>
+    <input type="submit" value="Save" class="btn btn-primary mt-3 mb-3" />
+
+</form>
+<a asp-action="ShowAll" asp-controller="Student" class="btn btn-secondary mt-1 mb-3">Back To List</a>
+
+
+
+
